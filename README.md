@@ -1,4 +1,4 @@
-# blackholeQ
+# blackholeQ Algorithm of archivation/dearchivation
 Алгоритм архивирования для бинарных вычислений с потерями в 50% от исходного размера данных
 
 
