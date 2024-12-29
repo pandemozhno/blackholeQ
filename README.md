@@ -1,5 +1,5 @@
 بِسْمِ اللهِ في أَوَّلِهِ وَآخِـرِه‎
-# blackholeQ Algorithm of archivation/dearchivation
+# blackholeQ Algorithm of archivation
 Алгоритм архивирования для бинарных вычислений с потерями в 50% от исходного размера данных
 
 
